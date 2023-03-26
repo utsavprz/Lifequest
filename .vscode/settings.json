@@ -1,0 +1,5 @@
+{
+    "editor.parameterHints.cycle": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "javascript.suggest.completeFunctionCalls": false
+}
